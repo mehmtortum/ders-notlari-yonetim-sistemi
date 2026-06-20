@@ -1,0 +1,11 @@
+bin/
+obj/
+node_modules/
+dist/
+.vite/
+Uploads/*
+!Uploads/.gitkeep
+*.user
+*.suo
+.DS_Store
+.env
